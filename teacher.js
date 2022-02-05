@@ -10,4 +10,4 @@ class Teacher extends Person {
     }
 }
 
-exports.Teacher = Teacher;
+module.exports = Teacher;

@@ -9,4 +9,4 @@ class Students extends Person {
     }
 }
 
-exports.Students = Students;
+module.exports = Students;

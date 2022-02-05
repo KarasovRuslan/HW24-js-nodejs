@@ -9,4 +9,4 @@ class Person {
         console.log(`Hello my name is ${this.name} I'm ${this.age} years old, and I interest ${this.interests}`);
     }
 }
-exports.Person = Person;
+module.exports = Person;
